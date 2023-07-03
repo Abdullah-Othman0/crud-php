@@ -1,0 +1,17 @@
+.myForm {
+    width: 60%;
+    padding: 40px;
+    margin: auto;
+    background-color: rgb(198, 156, 238);
+}
+
+.my-title{
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+img{
+    width: 80px;
+    padding-bottom: 25px;
+}
+
