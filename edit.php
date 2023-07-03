@@ -39,6 +39,7 @@ if (!isset($_GET['id'])) {
             <input type="date" class="form-control" id="birthday" name="birthday" value="<?= $res['birthday'] ?>">
         </div>
 
+        <button href='viewrecords.php' class="mt-3 btn btn-danger">Cancel</button>
         <button type="submit" name="submit" class="mt-3 btn btn-primary">Submit edits</button>
     </form>
 </div>
